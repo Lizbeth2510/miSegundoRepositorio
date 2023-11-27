@@ -4,3 +4,4 @@ Juan Enero 99
 Estrella Noviembre 99
 Guadalupe Diciembre 98
 Manuel Febrero 98
+En esta carpeta se encuentra un documento con una lista de nombres en conjunto con el mes y año de nacimiento. Cada una de las carpetas de este directorio contienen una serie de documentos que están separados y ordenados de acuerdo al campo que corresponda ségún sea el caso
