@@ -4,4 +4,8 @@ Juan Enero 99
 Estrella Noviembre 99
 Guadalupe Diciembre 98
 Manuel Febrero 98
+<<<<<<< HEAD
 Lisa Abril 98
+=======
+Fernanda Marzo 99
+>>>>>>> 201ead2f367e6ad6e0fe8c84459627a1fc3b3177
